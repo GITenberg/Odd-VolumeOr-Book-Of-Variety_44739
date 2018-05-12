@@ -18,6 +18,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44739#Odd-VolumeOr-Book-Of-Variety
 gutenberg_issued: '2014-01-23'
 gutenberg_type: Text
 identifiers:

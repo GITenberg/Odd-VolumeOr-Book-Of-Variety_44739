@@ -1,0 +1,40 @@
+_repo: Odd-VolumeOr-Book-Of-Variety_44739
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  - agent_name: Seymour, Robert
+    birthdate: 1798
+    deathdate: 1836
+    gutenberg_agent_id: '1828'
+    url: http://www.gutenberg.org/2009/agents/1828
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2014-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PN'
+tableOfContents: Preface -- The odd volume -- Legend of the large mouth -- Strawberries
+  and cream -- The rose in January -- The March of Mind -- The old gentleman's teetotum
+  -- A water party -- The angler and the fowler -- The elopement -- Subjects of conversation
+  -- Inconveniencies resulting from being hanged -- The new "Beauty and the beast"
+  -- Trinity College, Cambridge. Forty years ago -- Neck or nothing -- The mysterious
+  visitor -- The cloaks -- A comical adventure -- How to make a paper -- The nightmare
+  -- A gall-ing system.
+title: The Odd Volume; Or, Book of Variety
+url: http://www.gutenberg.org/ebooks/44739
